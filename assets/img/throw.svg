@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Breeze linen throw blanket">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f5f0ff"/>
+      <stop offset="1" stop-color="#ded2f7"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M126 250c58-30 116-30 174 0s116 30 174 0v40c-58 30-116 30-174 0s-116-30-174 0z" fill="#7f6ad4"/>
+  <path d="M126 310c58-30 116-30 174 0s116 30 174 0v40c-58 30-116 30-174 0s-116-30-174 0z" fill="#9482e0"/>
+  <path d="M126 370c58-30 116-30 174 0s116 30 174 0v40c-58 30-116 30-174 0s-116-30-174 0z" fill="#aa9bea"/>
+  <g stroke="#6b58c4" stroke-width="6" stroke-linecap="round">
+    <path d="M126 434v28m40-40v28m40-32v28m40-30v28m40-30v28m40-28v28m40-24v28"/>
+  </g>
+
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Terra ceramic mug set">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef7f1"/>
+      <stop offset="1" stop-color="#cfe9d9"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M372 268h40c28 0 46 20 46 46s-18 46-46 46h-40" fill="none" stroke="#c96f4a" stroke-width="22"/>
+  <path d="M170 230h206v180c0 34-26 60-60 60h-86c-34 0-60-26-60-60z" fill="#e08660"/>
+  <path d="M170 230h206v44H170z" fill="#c96f4a"/>
+  <ellipse cx="273" cy="230" rx="103" ry="24" fill="#f2a077"/>
+  <ellipse cx="273" cy="230" rx="80" ry="16" fill="#8a4b32" opacity=".55"/>
+  <path d="M212 320c22-14 44-14 66 0s44 14 66 0" stroke="#f7c4ab" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M212 366c22-14 44-14 66 0s44 14 66 0" stroke="#f7c4ab" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+</svg>

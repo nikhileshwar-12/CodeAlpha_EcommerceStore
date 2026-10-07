@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Heritage denim jacket">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf1fb"/>
+      <stop offset="1" stop-color="#c6d9f2"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M300 176l-58 20-64 30-34 78 52 22 22-46v216h168V280l22 46 52-22-34-78-64-30z" fill="#3f6ea8"/>
+  <path d="M300 176l-58 20 58 62 58-62z" fill="#4f80bd"/>
+  <path d="M242 196l58 62-40 26-40-64z" fill="#2f5a8d"/>
+  <path d="M358 196l-58 62 40 26 40-64z" fill="#2f5a8d"/>
+  <rect x="292" y="258" width="16" height="238" rx="6" fill="#22456f"/>
+  <rect x="248" y="330" width="44" height="30" rx="8" fill="#22456f"/>
+  <rect x="308" y="330" width="44" height="30" rx="8" fill="#22456f"/>
+  <circle cx="300" cy="290" r="7" fill="#dfe8f5"/>
+  <circle cx="300" cy="358" r="7" fill="#dfe8f5"/>
+  <circle cx="300" cy="426" r="7" fill="#dfe8f5"/>
+
+</svg>

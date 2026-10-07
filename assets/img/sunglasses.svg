@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Solstice polarized sunglasses">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff8e1"/>
+      <stop offset="1" stop-color="#ffe7a8"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M118 268h68m228 0h68" stroke="#2b2b34" stroke-width="16" stroke-linecap="round"/>
+  <path d="M186 250h60c14 0 22 10 26 26 6 34-14 62-46 62-30 0-50-22-50-52 0-20 6-36 10-36z" fill="#3a3f52"/>
+  <path d="M354 250h60c4 0 10 16 10 36 0 30-20 52-50 52-32 0-52-28-46-62 4-16 12-26 26-26z" fill="#3a3f52"/>
+  <path d="M196 266h44c8 0 14 8 16 20 4 24-10 42-30 42-20 0-32-16-32-34 0-14 2-28 2-28z" fill="#7fd8ff" opacity=".55"/>
+  <path d="M362 266h44s2 14 2 28c0 18-12 34-32 34-20 0-34-18-30-42 2-12 8-20 16-20z" fill="#7fd8ff" opacity=".55"/>
+  <path d="M246 256h108" stroke="#2b2b34" stroke-width="14"/>
+
+</svg>

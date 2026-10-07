@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Nomad canvas backpack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf1e7"/>
+      <stop offset="1" stop-color="#f6d7bd"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M300 152c-62 0-104 40-104 96v8" stroke="#6b4a2f" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M300 152c62 0 104 40 104 96v8" stroke="#6b4a2f" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <rect x="170" y="200" width="260" height="286" rx="54" fill="#a8734a"/>
+  <rect x="170" y="200" width="260" height="286" rx="54" fill="url(#sh)" opacity=".25"/>
+  <path d="M170 322c0-34 26-58 60-58h140c34 0 60 24 60 58v10H170z" fill="#8c5c3a"/>
+  <rect x="240" y="240" width="120" height="20" rx="10" fill="#f0dcc8"/>
+  <rect x="252" y="392" width="96" height="70" rx="20" fill="#8c5c3a"/>
+  <rect x="282" y="414" width="36" height="12" rx="6" fill="#f0dcc8"/>
+
+</svg>

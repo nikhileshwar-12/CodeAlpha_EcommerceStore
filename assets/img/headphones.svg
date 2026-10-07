@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Aurora wireless over-ear headphones">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8efff"/>
+      <stop offset="1" stop-color="#c9d8ff"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <path d="M300 168c-78 0-140 62-140 140v18h44v-18c0-54 43-96 96-96s96 42 96 96v18h44v-18c0-78-62-140-140-140z" fill="#2b3a67"/>
+  <rect x="132" y="300" width="78" height="150" rx="38" fill="#3f5bd6"/>
+  <rect x="390" y="300" width="78" height="150" rx="38" fill="#3f5bd6"/>
+  <rect x="146" y="316" width="50" height="118" rx="25" fill="#1d2b50"/>
+  <rect x="404" y="316" width="50" height="118" rx="25" fill="#1d2b50"/>
+  <rect x="158" y="332" width="26" height="86" rx="13" fill="#6d86ff" opacity=".75"/>
+  <rect x="416" y="332" width="26" height="86" rx="13" fill="#6d86ff" opacity=".75"/>
+  <rect x="286" y="150" width="28" height="26" rx="12" fill="#3f5bd6"/>
+
+</svg>

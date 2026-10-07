@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Nimbus mechanical keyboard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0eaff"/>
+      <stop offset="1" stop-color="#d6c9ff"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <rect x="112" y="232" width="376" height="176" rx="26" fill="#3a2f5c"/>
+  <rect x="132" y="252" width="336" height="136" rx="18" fill="#241d3d"/>
+  <g fill="#8f7ce0">
+    <rect x="150" y="270" width="30" height="26" rx="7"/><rect x="188" y="270" width="30" height="26" rx="7"/>
+    <rect x="226" y="270" width="30" height="26" rx="7"/><rect x="264" y="270" width="30" height="26" rx="7"/>
+    <rect x="302" y="270" width="30" height="26" rx="7"/><rect x="340" y="270" width="30" height="26" rx="7"/>
+    <rect x="378" y="270" width="30" height="26" rx="7"/><rect x="416" y="270" width="34" height="26" rx="7"/>
+    <rect x="150" y="306" width="30" height="26" rx="7"/><rect x="188" y="306" width="30" height="26" rx="7"/>
+    <rect x="226" y="306" width="30" height="26" rx="7"/><rect x="264" y="306" width="30" height="26" rx="7"/>
+    <rect x="302" y="306" width="30" height="26" rx="7"/><rect x="340" y="306" width="30" height="26" rx="7"/>
+    <rect x="378" y="306" width="72" height="26" rx="7"/>
+    <rect x="150" y="342" width="52" height="26" rx="7"/><rect x="210" y="342" width="184" height="26" rx="7"/>
+    <rect x="402" y="342" width="48" height="26" rx="7"/>
+  </g>
+  <rect x="226" y="270" width="30" height="26" rx="7" fill="#ffb454"/>
+
+</svg>

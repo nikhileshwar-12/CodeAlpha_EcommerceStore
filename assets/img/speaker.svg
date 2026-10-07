@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Lumen bluetooth speaker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff3e6"/>
+      <stop offset="1" stop-color="#ffdcb8"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="270" r="190" fill="#ffffff" opacity=".35"/>
+  <ellipse cx="300" cy="492" rx="150" ry="24" fill="#0b1224" opacity=".10"/>
+  
+  <rect x="176" y="182" width="248" height="266" rx="42" fill="#d9743b"/>
+  <rect x="176" y="182" width="248" height="266" rx="42" fill="url(#sh)" opacity=".35"/>
+  <circle cx="300" cy="288" r="74" fill="#3c2317"/>
+  <circle cx="300" cy="288" r="52" fill="none" stroke="#6b4028" stroke-width="6"/>
+  <circle cx="300" cy="288" r="26" fill="#8a5334"/>
+  <rect x="228" y="392" width="144" height="14" rx="7" fill="#3c2317" opacity=".7"/>
+  <circle cx="368" cy="222" r="9" fill="#2f1a10" opacity=".65"/>
+
+</svg>
